@@ -1,0 +1,44 @@
+{
+  "name": "paper-more-button",
+  "authors": [
+    "collaborne"
+  ],
+  "description": "A material design button to load more items in a list (Polymer 1.x)",
+  "main": "paper-more-button.html",
+  "keywords": [
+    "web-components",
+    "polymer",
+    "paper",
+    "material design",
+    "list",
+    "navigation"
+  ],
+  "license": "Apache 2",
+  "homepage": "https://github.com/Collaborne/paper-more-button",
+  "ignore": [
+    "**/.*"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0",
+    "paper-button": "PolymerElements/paper-button#^1.0.0",
+    "paper-spinner": "PolymerElements/paper-spinner#^1.0.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "iron-test-helpers": "polymerelements/iron-test-helpers#^1.0.0",
+    "paper-styles": "PolymerElements/paper-styles#^1.0.0",
+    "test-fixture": "PolymerElements/test-fixture#^1.0.0",
+    "web-component-tester": "*",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
+  },
+  "_release": "ba6b133a95",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "ba6b133a95d3d4585c047027ab28e6f1fbbd2a46"
+  },
+  "_source": "git://github.com/Collaborne/paper-more-button.git",
+  "_target": "master",
+  "_originalSource": "Collaborne/paper-more-button",
+  "_direct": true
+}
